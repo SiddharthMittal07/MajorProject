@@ -10,6 +10,7 @@ also be used to categorize the tumour as being as being primary or secondary whi
 further treatment procedure. This project experimentally analyses supervised machine learning 
 algorithms that are used to detect brain tumours in MRI images and presents the results in a 
 creative UI application.
+![https://brain-cancer-detection.herokuapp.com]
 
 # FRAMEWORKS AND TOOLS USED
 ----------------------------
